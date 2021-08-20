@@ -2,7 +2,7 @@
   "name": "guote-generator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kianaz22.github.io/quote-generator",
+  "homepage": "https://kianaz22.github.io/quote-generator/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
